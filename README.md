@@ -1,6 +1,7 @@
 # Data-Science-2021
 ## Note: 
-*By GitHub Terms and Services, the default copyright laws apply (©), meaning that I (Siddartha Nath) retain all rights to this source code and no one may reproduce, distribute, or create derivative works from my work.*
+*By GitHub Terms and Services, the default copyright laws apply, meaning that I (Siddartha Nath) retain all rights to this source code and no one may reproduce, distribute, or create derivative works from my work.*
+<br>
 <br>
 If you wish to use any code, images or written analysis, please email: sidnath01@hotmail.com and request for "Reference Permission". 
 ## <ins>Repository Overview</ins>:
@@ -23,3 +24,6 @@ A general mathematical overview on the theory of each topic will be provided how
 <br>
 ## <ins>Repository Audience</ins>:
 This repository is aimed to anyone who has an interest in going into Data Science or has a passion for computational Mathematics. However, in order to understand the Mathematics behind each section, it is essential that one has a strong mathematical background.
+<br>
+<br>
+© Siddartha Nath. 2021. 
