@@ -2,7 +2,7 @@
 ## Note: 
 *This project is &copy; by the written authors and hence any material cannot be copied directly. If you wish to use any code, images or written analysis, please email:* sidnath01@hotmail.com 
 ## <ins>Repository Overview</ins>:
-This repository aims to give a deep understanding of machine learning and deep learning techniques. The focus will be on the following key sections:
+This repository aims to give a deep understanding of machine learning and deep learning techniques. The key sections that will be tackled are:
 <br>
 1. Linear/Ridge Regression
 2. Logistic Regression
