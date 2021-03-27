@@ -1,6 +1,6 @@
 # Data-Science-2021
 ## Note: 
-*By GitHub Terms and Services, the default copyright laws apply (&copy), meaning that I (Siddartha Nath) retain all rights to this source code and no one may reproduce, distribute, or create derivative works from my work.*
+*By GitHub Terms and Services, the default copyright laws apply ( &copy ), meaning that I (Siddartha Nath) retain all rights to this source code and no one may reproduce, distribute, or create derivative works from my work.*
 <br>
 If you wish to use any code, images or written analysis, please email:* sidnath01@hotmail.com and request for "Reference Permission". 
 ## <ins>Repository Overview</ins>:
