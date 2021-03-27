@@ -5,7 +5,7 @@
 Every external resource I use to aid my work will be referenced clearly.*
 <br>
 <br>
-If you wish to use any code, images or written analysis, please email: sidnath01@hotmail.com and request for "Reference Permission". 
+If you wish to use COMPLETE code, images or written analysis, please email: sidnath01@hotmail.com and request for "Reference Permission", otherwise always reference this Github repository.  
 ## <ins>Repository Overview</ins>:
 This repository aims to give a deep understanding of machine learning and deep learning techniques. The key sections that will be tackled are:
 <br>
