@@ -15,7 +15,7 @@ This repository aims to give a deep understanding of machine learning and deep l
 9. Principal Component Analysis
 10. Graph Based Learning
 
-A general mathematical overview on the theory of each topic will be provided however the main focus will be the on the coding implementations of the subjects. Additionally, the resources will be centered around "from scratch" application (and not relying too heavily on in-built tools). 
+A general mathematical overview on the theory of each topic will be provided however the main focus will be on the coding. Additionally, the resources will be centered around "from scratch" implementation (and not relying too heavily on in-built tools). 
 <br>
 ## <ins>Repository Audience</ins>:
 This repository is aimed to anyone who has an interest in going into Data Science or has a passion for computational Mathematics. However, in order to understand the Mathematics behind each section, it is essential that one has a strong mathematical background.
