@@ -26,4 +26,4 @@ A general mathematical overview on the theory of each topic will be provided how
 This repository is aimed to anyone who has an interest in going into Data Science or has a passion for computational Mathematics. However, in order to understand the Mathematics behind each section, it is essential that one has a strong mathematical background.
 <br>
 <br>
-© Siddartha Nath. 2021. 
+© Siddartha Nath 2021. 
