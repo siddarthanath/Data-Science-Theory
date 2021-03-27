@@ -15,6 +15,8 @@ This repository aims to give a deep understanding of machine learning and deep l
 9. Principal Component Analysis
 10. Graph Based Learning
 
+Each chapter will be relayed via Jupyter Notebook/HTML files. 
+<br>
 A general mathematical overview on the theory of each topic will be provided however the main focus will be on the coding. Additionally, the resources will be centered around "from scratch" implementation (and not relying too heavily on in-built tools). 
 <br>
 ## <ins>Repository Audience</ins>:
