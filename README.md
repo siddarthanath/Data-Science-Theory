@@ -24,7 +24,7 @@ Each chapter will be relayed via Jupyter Notebook/HTML files. Every external res
 The sole focus of these notebooks focus will be on coding (and very little Mathematics). Additionally, the resources will be centered around "from scratch" implementations (and not relying too heavily on in-built tools). 
 <br>
 ## <ins>Repository Audience</ins>:
-This repository is aimed to anyone who has an interest in going into Data Science or has a passion for computational Mathematics. However, in order to understand the Mathematics behind each section, it is essential that one has a strong mathematical background.
+This repository is aimed to anyone who has an interest in going into Data Science or has a passion/strength for computational Mathematics.
 <br>
 ## <ins>Future Plans</ins>:
 If this repository receives good feedback i.e. people reference and use it a lot, I will produce side-by-side tutorial videos which will provide in-depth mathematical theory behind the topics.
