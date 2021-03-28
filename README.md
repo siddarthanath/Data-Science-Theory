@@ -1,8 +1,7 @@
 # Data-Science-2021
 ## Note: 
-*By GitHub Terms and Services, the default copyright laws apply, meaning that I (Siddartha Nath) retain all rights to this source code and no one may reproduce, distribute, or create derivative works from my work.
+*By GitHub Terms and Services, the default copyright laws apply, meaning that I (Siddartha Nath) retain all rights to this source code and no one may reproduce, distribute, or create derivative works from my work.*
 <br>
-Every external resource I use to aid my work will be referenced clearly.*
 <br>
 <br>
 If you wish to use COMPLETE codes, images or written analyses, please email: sidnath01@hotmail.com and request for "Reference Permission", otherwise always reference this Github repository. I would greatly appreciate the acknowledgement! 
@@ -21,7 +20,7 @@ This repository aims to give a deep understanding of machine learning and deep l
 10. Principal Component Analysis
 11. Graph Based Learning
 
-Each chapter will be relayed via Jupyter Notebook/HTML files. 
+Each chapter will be relayed via Jupyter Notebook/HTML files. Every external resource I use to aid my work will be referenced clearly.
 <br>
 The sole of these notebooks focus will be on the coding (and very little Mathematics). Additionally, the resources will be centered around "from scratch" implementation (and not relying too heavily on in-built tools). 
 <br>
