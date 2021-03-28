@@ -5,7 +5,7 @@
 Every external resource I use to aid my work will be referenced clearly.*
 <br>
 <br>
-If you wish to use COMPLETE codes, images or written analyses, please email: sidnath01@hotmail.com and request for "Reference Permission", otherwise always reference this Github repository.  
+If you wish to use COMPLETE codes, images or written analyses, please email: sidnath01@hotmail.com and request for "Reference Permission", otherwise always reference this Github repository. I would greatly appreciate the acknowledgement! 
 ## <ins>Repository Overview</ins>:
 This repository aims to give a deep understanding of machine learning and deep learning techniques. The key sections that will be tackled are:
 <br>
@@ -23,10 +23,12 @@ This repository aims to give a deep understanding of machine learning and deep l
 
 Each chapter will be relayed via Jupyter Notebook/HTML files. 
 <br>
-A general mathematical overview on the theory of each topic will be provided however the main focus will be on the coding. Additionally, the resources will be centered around "from scratch" implementation (and not relying too heavily on in-built tools). 
+The sole of these notebooks focus will be on the coding (and very little Mathematics). Additionally, the resources will be centered around "from scratch" implementation (and not relying too heavily on in-built tools). 
 <br>
 ## <ins>Repository Audience</ins>:
 This repository is aimed to anyone who has an interest in going into Data Science or has a passion for computational Mathematics. However, in order to understand the Mathematics behind each section, it is essential that one has a strong mathematical background.
 <br>
+## <ins>Future Plans</ins>:
+If this repository receives good feedback i.e. people reference and use it a lot, I will produce side-by-side tutorial videos which will provide in-depth mathematical theory behind the topics.
 <br>
 © Siddartha Nath 2021. 
