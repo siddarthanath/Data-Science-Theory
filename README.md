@@ -10,12 +10,12 @@ This repository aims to give a deep understanding of machine learning and deep l
 1. Linear Regression
 2. Non-Linear Regression
 3. Logistic Regression
-4. *k*-nearest Neighbours
+4. *k*-Nearest Neighbours
 5. Naive Bayes Classifier 
 6. Decision Trees and Random Forests
 7. Support Vector Machines (SVM)
 8. Neural Networks
-9. *k*-means clustering
+9. *k*-Means Clustering
 10. Principal Component Analysis
 11. Graph Based Learning
 
