@@ -9,16 +9,17 @@ If you wish to use COMPLETE codes, images or written analyses, please email: sid
 ## <ins>Repository Overview</ins>:
 This repository aims to give a deep understanding of machine learning and deep learning techniques. The key sections that will be tackled are:
 <br>
-1. Linear/Ridge Regression
-2. Logistic Regression
-3. *k*-nearest Neighbours
-4. Naive Bayes Classifier 
-5. Decision Trees and Random Forests
-6. Support Vector Machines (SVM)
-7. Neural Networks
-8. *k*-means clustering
-9. Principal Component Analysis
-10. Graph Based Learning
+1. Linear Regression
+2. Non-Linear Regression
+3. Logistic Regression
+4. *k*-nearest Neighbours
+5. Naive Bayes Classifier 
+6. Decision Trees and Random Forests
+7. Support Vector Machines (SVM)
+8. Neural Networks
+9. *k*-means clustering
+10. Principal Component Analysis
+11. Graph Based Learning
 
 Each chapter will be relayed via Jupyter Notebook/HTML files. 
 <br>
