@@ -21,7 +21,7 @@ This repository aims to give a deep understanding of machine learning and deep l
 
 Each chapter will be relayed via Jupyter Notebook/HTML files. Every external resource I use to aid my work will be referenced clearly.
 <br>
-The sole focus of these notebooks focus will be on coding (and very little Mathematics). Additionally, the resources will be centered around "from scratch" implementation (and not relying too heavily on in-built tools). 
+The sole focus of these notebooks focus will be on coding (and very little Mathematics). Additionally, the resources will be centered around "from scratch" implementations (and not relying too heavily on in-built tools). 
 <br>
 ## <ins>Repository Audience</ins>:
 This repository is aimed to anyone who has an interest in going into Data Science or has a passion for computational Mathematics. However, in order to understand the Mathematics behind each section, it is essential that one has a strong mathematical background.
