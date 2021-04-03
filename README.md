@@ -20,12 +20,13 @@ This repository aims to give a deep understanding of machine learning and deep l
 
 Each chapter will be relayed via Jupyter Notebook/HTML files. Every external resource I use to aid my work will be referenced clearly.
 <br>
-The sole focus of these notebooks focus will be on coding. Additionally, the resources will be centered around "from scratch" implementations (and not relying too heavily on in-built tools). 
+The sole focus of these notebooks focus will be on coding (with brief mathematical backgrounds). Additionally, the resources will be centered around "from scratch" implementations (and not relying too heavily on in-built tools). 
 <br>
 ## <ins>Repository Audience</ins>:
 This repository is aimed to anyone with a passion/strength for computational Mathematics and an interest in Data Science.
 <br>
 ## <ins>Future Plans</ins>:
-If this repository receives good feedback i.e. people reference and use it a lot, I will produce side-by-side tutorial videos which will provide in-depth mathematical theory behind the topics.
+If this repository receives good feedback i.e. people reference and use it a lot, I will produce side-by-side tutorial videos which will provide in-depth mathematical theory behind the topics via a live online course. 
+<br>
 <br>
 © Siddartha Nath 2021. 
