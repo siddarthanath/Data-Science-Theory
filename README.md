@@ -7,8 +7,7 @@ If you wish to use COMPLETE codes, images or written analyses, please email: sid
 ## <ins>Repository Overview</ins>:
 This repository aims to give a deep understanding of machine learning and deep learning techniques. The key sections that will be tackled are:
 <br>
-1. Linear Regression
-2. Non-Linear Regression (Logistic Regression)
+1. Regression (Linear & Non Linear)
 3. *k*-Nearest Neighbours
 4. Naive Bayes Classifier 
 5. Decision Trees and Random Forests
