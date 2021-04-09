@@ -15,7 +15,7 @@ The sole focus of these notebooks focus will be on coding (with brief mathematic
 3. Numpy (Numerical Python)
 4. Pandas
 5. Matplotlib and Seaborn
-<br>
+
 I recommend completing the following course which provides a thorough overview of these sections (and you can also get a free certificate!): https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas
 
 ## <ins>Machine Learning/Deep Learning</ins>
