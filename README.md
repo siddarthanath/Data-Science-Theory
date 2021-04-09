@@ -11,7 +11,7 @@ If you wish to use COMPLETE codes, images or written analyses, please email: sid
 - The sole focus of these notebooks focus will be on coding (with brief mathematical summaries). 
 - Additionally, the resources will be centered around "from scratch" implementations (and not relying too heavily on in-built tools). 
 - Every external resource I use to aid my work will be referenced clearly.
-<br>
+
 ## <ins>Data Analysis</ins>
 1. Introduction to Python
 2. Statements and Loops
