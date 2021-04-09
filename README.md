@@ -5,7 +5,10 @@
 <br>
 If you wish to use COMPLETE codes, images or written analyses, please email: sidnath01@hotmail.com and request for "Reference Permission", otherwise always reference this Github repository. I would greatly appreciate the acknowledgement! 
 ## <ins>Repository Overview</ins>:
-This repository aims to give a deep understanding of machine learning and deep learning techniques. The key sections that will be tackled are:
+This repository aims to give a deep understanding of what Data Science entails and the procedures involved in the field. We will tackle: Data Analysis and Machine Learning/Deep learning techniques. The key sections that will be tackled are:
+<br>
+## Data Analysis
+
 <br>
 1. Regression (Linear & Non Linear)
 3. *k*-Nearest Neighbours
