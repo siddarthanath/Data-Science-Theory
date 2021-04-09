@@ -17,7 +17,6 @@ The sole focus of these notebooks focus will be on coding (with brief mathematic
 5. Matplotlib and Seaborn
 <br>
 I recommend completing the following course which provides a thorough overview of these sections (and you can also get a free certificate!): https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas
-<br>
 
 ## <ins>Machine Learning/Deep Learning</ins>
 1. Regression (Linear & Non Linear)
@@ -29,7 +28,6 @@ I recommend completing the following course which provides a thorough overview o
 8. *k*-Means Clustering
 9. Principal Component Analysis
 10. Graph Based Learning
-<br>
 
 ## <ins>Repository Audience</ins>:
 This repository is aimed to anyone with a passion/strength for computational Mathematics and an interest in Data Science. It is recommended to complete the Data Analysis section first and then move onto Machine Learning/Deep Learning however if you are just interested in the brute computational codes, then it is possible to jump into the Machine Learning/Deep Learning section. The assumption is that those taking this course already have some experience in Python! 
