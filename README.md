@@ -5,9 +5,11 @@
 <br>
 If you wish to use COMPLETE codes, images or written analyses, please email: sidnath01@hotmail.com and request for "Reference Permission", otherwise always reference this Github repository. I would greatly appreciate the acknowledgement! 
 ## <ins>Repository Overview</ins>:
-This repository aims to give a deep understanding of the fundamentals of Data Science. It is split into two main blocks: Data Analysis and Machine Learning/Deep learning. Each block will be split into chapters and will be relayed via Jupyter Notebook/HTML files.
-<br>
-The sole focus of these notebooks focus will be on coding (with brief mathematical summaries). Additionally, the resources will be centered around "from scratch" implementations (and not relying too heavily on in-built tools). Every external resource I use to aid my work will be referenced clearly.
+- This repository aims to give a deep understanding of the fundamentals of Data Science. It is split into two main blocks: Data Analysis and Machine Learning/Deep learning. 
+- Each block will be split into chapters and will be relayed via Jupyter Notebook/HTML files.
+- The sole focus of these notebooks focus will be on coding (with brief mathematical summaries). 
+- Additionally, the resources will be centered around "from scratch" implementations (and not relying too heavily on in-built tools). 
+- Every external resource I use to aid my work will be referenced clearly.
 <br>
 ## <ins>Data Analysis</ins>
 1. Introduction to Python
