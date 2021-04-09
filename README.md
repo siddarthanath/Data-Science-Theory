@@ -22,7 +22,8 @@ If you wish to use COMPLETE codes, images or written analyses, please email: sid
 I recommend completing the following course which provides a thorough overview of these sections (and you can also get a free certificate!): https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas
 
 ## <ins>Machine Learning/Deep Learning</ins>
-1. Regression (Linear & Non Linear)
+1. Linear Regression
+2. Non-Linear Regression
 3. *k*-Nearest Neighbours
 4. Naive Bayes Classifier 
 5. Decision Trees and Random Forests
