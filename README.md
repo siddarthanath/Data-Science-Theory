@@ -34,7 +34,7 @@ I recommend completing the following course which provides a thorough overview o
 10. Graph Based Learning
 
 ## <ins>Repository Audience</ins>:
-This repository is aimed to anyone with a passion/strength for computational Mathematics and an interest in Data Science. It is recommended to complete the Data Analysis section first and then move onto Machine Learning/Deep Learning however if you are just interested in the brute computational codes, then it is possible to jump into the Machine Learning/Deep Learning section. The assumption is that those taking this course already have some experience in Python! 
+This repository is aimed to anyone with a passion/strength for computational Mathematics and an interest in Data Science. It is recommended to complete the Data Analysis section first and then move onto Machine Learning/Deep Learning however if you are just interested in the brute computational codes, then it is possible to jump into the Machine Learning/Deep Learning section. The assumption is that those taking this course already have some experience in Python, Linear Algebra and Statistics! 
 <br>
 
 ## <ins>Future Plans</ins>:
