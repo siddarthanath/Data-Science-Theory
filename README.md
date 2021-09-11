@@ -1,4 +1,4 @@
-# Data-Science-2021
+# Data-Science-Theory
 ## Note: 
 *By GitHub Terms and Services, the default copyright laws apply, meaning that I (Siddartha Nath) retain all rights to this source code and no one may reproduce, distribute, or create derivative works from my work.*
 <br>
