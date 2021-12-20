@@ -1,9 +1,5 @@
 # Data-Science-Theory
 ## Note: 
-*By GitHub Terms and Services, the default copyright laws apply, meaning that I (Siddartha Nath) retain all rights to this source code and no one may reproduce, distribute, or create derivative works from my work.*
-<br>
-<br>
-If you wish to use COMPLETE codes, images or written analyses, please email: sidnath01@hotmail.com and request for "Reference Permission", otherwise always reference this Github repository. I would greatly appreciate the acknowledgement! 
 ## <ins>Repository Overview</ins>:
 - This repository aims to give a deep understanding of the fundamentals of Data Science. 
 - It is split into two main blocks: Data Analysis and Machine Learning/Deep learning. 
